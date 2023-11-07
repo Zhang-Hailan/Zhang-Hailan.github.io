@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-👋 Hi,everyone. My name is Zhang Hailan. The Chinese meanings of each word in my name (张海澜) are "Slack", "Wide", "Passion", respectively. I was born in the 21th century (April 4th, 2002). I will received my Bachelor degree degree at [Anhui university of technology (AHUT)](https://www.ahut.edu.cn) in 2024. And i will contiune my studies in Hefei University of Technology(HFUT) supervised by [Prof. Yang Wang](https://sites.google.com/view/wayag/home) in 2024 Fall.
+👋 Hi,everyone. My name is Zhang Hailan. The Chinese meanings of each word in my name (张海澜) are "Slack", "Wide", "Passion", respectively. I was born in the 21th century (April 4th, 2002). I will received my Bachelor degree degree at [Anhui university of technology (AHUT)](https://www.ahut.edu.cn) in 2024. And i will contiune my studies in [Hefei University of Technology(HFUT)](https://www.hfut.edu.cn) supervised by [Prof. Yang Wang](https://sites.google.com/view/wayag/home) in 2024 Fall.
 
 I visited the Visual & Data Intellgence Center (VDI) Lab, ShanghaiTech university and SHANGHAI ACOUSTICS LABORATORY,CHINESE ACADEMY OF SCIENCE in 2023 Summer.
 
 My research interest includes machine learning and computer vision.
 
 # Global
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VbcrNgLaYEkdva0gLX4gyxLPCTXMVvSKkXqAcg8W2W4"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VbcrNgLaYEkdva0gLX4gyxLPCTXMVvSKkXqAcg8W2W4&cl=ffffff&w=a"></script>
 
 # Course
 C language programming 2(95)          data structure(98)        C language programming 2(97)        Embedded Systems(94)        Internet of Things communication technology(97)        Microcomputer principle and assembly language(92)
