@@ -283,25 +283,29 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 </div>
 
 # Education 
-- *2018.09 - 2022.12* \| Ph.D. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
-- *2016.09 - 2018.06* \| M.Sc. \| [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn)
-- *2012.09 - 2016.06* \| B.E. \| [China University of Petroleum (UPC)](https://www.upc.edu.cn)
-- *2019.07 - 2019.10* \| visiting student \| [Computational Health Informatics (CHI) Lab, University of Oxford](https://eng.ox.ac.uk/chi/)
-
-# Experience
-- *2023.03-present* \| Assistant Professor \| [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn)
-- *2018.03-2022.12* \| Intern \| Megvii Research
-
-# Academic Services
-- **Journals:** Signal Processing Letters (SPL); Computer Graphics Fourm (CGF); Artificial Intelligence Review (AIR)
-
-- **Conferences:** IEEE International Conference on Computer Vision (ICCV); AAAI Conference on Artificial Intelligence (AAAI); Pacific Graphics (PG); International Conference on Intelligent Robots and Systems (IROS)
+- *2024.09 - 2027.06* \| M.Sc.(expected) \| [Hefei University of Technology (HFUT)](https://www.hfut.edu.cn)
+- *2020.09 - 2024.06* \| B.E.(expected) \| [Anhui University of Technology (AHUT)](https://www.ahut.edu.cn)
 
 # Projects
-**2018.09-2018.12, Driver Monitor System (DMS)**
-- Design a light-weighted end-to-end network running on an onboard chip to detect smoking, phoning, and drinking in driving.
+**2022.09-2023.05, Lung cancer prediction system based on R language**
+- A machine learning algorithm is used to determine whether patients with lung nodules have cancer.
+
+  
+**2021.11-2022.09, Water valve irrigation system based on deep reinforcement learning**
+- The data collected by the sensor is trained to obtain the best irrigation strategy for the plant.
 <div>
        <video src='collections/DMS/DMS_smoke_demo1.mp4' controls="controls" width="30%" height="200px"></video>
        <video src='collections/DMS/DMS_smoke_demo2.mp4' controls="controls" width="30%" height="200px"></video>
        <video src='collections/DMS/DMS_phone_demo.mp4' controls="controls" width="30%" height="200px"></video>
 </div>
+
+**2020.11-2021.09, Truss structure robot**
+- Truss structure robot with adaptive pipe diameter.
+# Travel
+**2023.04, Nanjing**
+
+**2023.05, Lianyungang**
+
+**2023.06, Wuxi**
+
+**2023.08, qingdao&taishan**
