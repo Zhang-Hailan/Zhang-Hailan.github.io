@@ -1,17 +1,11 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ru Li"
-description              : # "Harbin Institute of Technology (HIT)"
+title                    : "Hailan Zhang"
+description              : # "Anhui University of Technology (AHUT)"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  "G-9976N9H92G" # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "g3bdVbkAAAAJ"  
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -20,13 +14,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "   Ru Li（李茹）"
+  name             : "Hailan Zhang（张海澜）"
   avatar           : "images/liru.jpeg"
-  bio              : # "Harbin Institute of Technology (HIT)"
+  bio              : # "Anhui University of Technology (AHUT)"
   employer         :
   pubmed           : 
-  email            : "liru@hit.edu.cn"
-  googlescholar    : "https://scholar.google.com/citations?user=4cHM8rYAAAAJ"
+  email            : "zhhl@ahut.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=g3bdVbkAAAAJ&hl"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -35,8 +29,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liru0126"
-  location         : # "Weihai, China"
+  github           : "Zhang-Hailan"
+  location         : "Maanshan,Anhui,China"
   google_plus      :
   keybase          :
   instagram        :
