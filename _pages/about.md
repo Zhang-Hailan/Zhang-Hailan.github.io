@@ -18,20 +18,24 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I received my Ph.D. degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn), supervised by [Prof. Guanghui Liu](https://www.researchgate.net/profile/Guanghui-Liu-7) and [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/) in 2022, and received my Bachelor degree in [China University of Petroleum (UPC)](https://www.upc.edu.cn) in 2016. I visited the [Computational Health Informatics (CHI) Lab](https://eng.ox.ac.uk/chi/), University of Oxford in 2019.
+👋 Hi,everyone. My name is Zhang Hailan. The Chinese meanings of each word in my name (张海澜) are "Slack", "Wide", "Passion", respectively. I was born in the 21th century (April 4th, 2002). I will received my Bachelor degree degree at [Anhui university of technology (AHUT)](https://www.ahut.edu.cn) in 2024. And i will contiune my studies in Hefei University of Technology(HFUT) supervised by [Prof. Yang Wang](https://sites.google.com/view/wayag/home) in 2024 Fall.
 
-I joined the group of [Prof. Shengping Zhang](https://scholar.google.com.hk/citations?user=hMNsT8sAAAAJ) at [School of Computer Science and Technology](http://cst.hitwh.edu.cn), [Harbin Institute of Technology (HIT), Weihai](https://www.hitwh.edu.cn) in 2023.
+I visited the Visual & Data Intellgence Center (VDI) Lab, ShanghaiTech university and SHANGHAI ACOUSTICS LABORATORY,CHINESE ACADEMY OF SCIENCE in 2023 Summer.
 
-My research interest includes computer vision and computer graphics.
+My research interest includes machine learning and computer vision.
+
+# Course
+C language programming 2(95)      data structure(98)    C language programming 2(97)    Embedded Systems(94)    Internet of Things communication technology(97)    Microcomputer principle and assembly language(92)
 
 
 # News
-- *2023.09*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). Congratulations to my collaborators.
-- *2023.07*: &nbsp; Two papers are accepted by ICCV 2023. Congratulations to my collaborators.
-- *2023.07*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-- *2022.06*: &nbsp; One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-- *2021.10*: &nbsp; I participated in the Doctor Symposium of ACMMM 2021.
-- *2021.10*: &nbsp; One paper is accepted by IEEE Transactions on Image Processing (TIP).
+- *2023.10*: &nbsp; I won the first-class scholarship of the university and merit student.
+- *2023.10*: &nbsp; One paper is accepted by JOSA A.
+- *2023.09*: &nbsp; I got the postgraduate qualification and decided to go to Hefei University of Technology(HFUT).
+- *2022.11*: &nbsp; I won the school ztrontech scholarship(4000).
+- *2022.10*: &nbsp; I won the first-class scholarship of the university and merit student.
+- *2022.08*: &nbsp; One paper is accepted by Measurement.
+- *2021.10*: &nbsp; I got my first scholarship in college.
 
 
 # Publications 
