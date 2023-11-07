@@ -24,8 +24,11 @@ I visited the Visual & Data Intellgence Center (VDI) Lab, ShanghaiTech universit
 
 My research interest includes machine learning and computer vision.
 
+# Global
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VbcrNgLaYEkdva0gLX4gyxLPCTXMVvSKkXqAcg8W2W4"></script>
+
 # Course
-C language programming 2(95)      data structure(98)    C language programming 2(97)    Embedded Systems(94)    Internet of Things communication technology(97)    Microcomputer principle and assembly language(92)
+C language programming 2(95)          data structure(98)        C language programming 2(97)        Embedded Systems(94)        Internet of Things communication technology(97)        Microcomputer principle and assembly language(92)
 
 
 # News
@@ -302,6 +305,8 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 **2020.11-2021.09, Truss structure robot**
 - Truss structure robot with adaptive pipe diameter.
 # Travel
+
+
 **2023.04, Nanjing**
 
 **2023.05, Lianyungang**
