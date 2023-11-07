@@ -1,11 +1,5 @@
-# liru0126.github.io
-
-Ru Li's personal page.
-
+# Zhang-Hailan.github.io
+Zhang-Hailan's personal page.
 [Demo](https://Zhang-Hailan.github.io/)
-
-Last update: 2023.04
-
-
-# Acknowledgments
-This project is build upon [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). Fell free to change it to your own homepage.
+Last update: 2023.11
+Email:zhangseanlan@gmail.com
