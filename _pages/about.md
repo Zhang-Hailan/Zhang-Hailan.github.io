@@ -85,38 +85,39 @@ Yue Wang, **Hailan Zhang**, Xuefeng Zhang, Xiangjun Wang\*
 **2022.09-2023.05, Lung cancer prediction system based on R language**
 - A machine learning algorithm is used to determine whether patients with lung nodules have cancer.
 
+**2021.11-2022.09, Water valve irrigation system based on deep reinforcement learning**
+- The data collected by the sensor is trained to obtain the best irrigation strategy for the plant.
+
 **2020.11-2021.09, Truss structure robot**
 - Truss structure robot with adaptive pipe diameter.
 
-**2021.11-2022.09, Water valve irrigation system based on deep reinforcement learning**
-- The data collected by the sensor is trained to obtain the best irrigation strategy for the plant.
 
 # Travel
 
 **2023.08, qingdao&taishan**
 <div>
        <video src='collections/Shandang/1.mp4' controls="controls" width="30%" height="200px"></video>
-       <img src='collections/Shandang/2.png' controls="controls" width="30%" height="200px"></img>
-       <img src='collections/Shandang/3.png' controls="controls" width="30%" height="200px"></img>
+       <img src='collections/Shandang/2.png' controls="controls" width="30%" height="200px">
+       <img src='collections/Shandang/3.png' controls="controls" width="30%" height="200px">
 </div>
 
 **2023.04, Shanghai**
 <div>
-       <img src='collections/Shanghai/1.png' controls="controls" width="30%" height="200px"></img>
+       <img src='collections/Shanghai/1.png' controls="controls" width="30%" height="200px">
        <video src='collections/Shanghai/2.mp4' controls="controls" width="30%" height="200px"></video>
-       <img src='collections/Shanghai/3.png' controls="controls" width="30%" height="200px"></img>
+       <img src='collections/Shanghai/3.png' controls="controls" width="30%" height="200px">
 </div>
 
 **2023.06, Wuxi**
 <div>
-       <img src='collections/Wuxi/1.png' controls="controls" width="30%" height="200px"></img>
-       <img src='collections/Wuxi/2.png' controls="controls" width="30%" height="200px"></img>
-       <img src='collections/Wuxi/3.png' controls="controls" width="30%" height="200px"></img>
+       <img src='collections/Wuxi/1.png' controls="controls" width="30%" height="200px">
+       <img src='collections/Wuxi/2.png' controls="controls" width="30%" height="200px">
+       <img src='collections/Wuxi/3.png' controls="controls" width="30%" height="200px">
 </div>
 
 **2023.04, Nanjing**
 <div>
-       <img src='collections/Nanjing/1.png' controls="controls" width="30%" height="200px"></img>
-       <img src='collections/Nanjing/2.png' controls="controls" width="30%" height="200px"></img>
-       <img src='collections/Nanjing/3.png' controls="controls" width="30%" height="200px"></img>
+       <img src='collections/Nanjing/1.png' controls="controls" width="30%" height="200px">
+       <img src='collections/Nanjing/2.png' controls="controls" width="30%" height="200px">
+       <img src='collections/Nanjing/3.png' controls="controls" width="30%" height="200px">
 </div>
