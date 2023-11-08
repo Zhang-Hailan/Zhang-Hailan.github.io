@@ -96,7 +96,7 @@ Yue Wang, **Hailan Zhang**, Xuefeng Zhang, Xiangjun Wang\*
 
 **2023.08, Qingdao and Taishan**
 <div>
-       <img src='collections/Shandang/1.mp4' controls="controls" width="30%" height="200px">
+       <img src='collections/Shandang/1.png' controls="controls" width="30%" height="200px">
        <img src='collections/Shandang/2.png' controls="controls" width="30%" height="200px">
        <img src='collections/Shandang/3.png' controls="controls" width="30%" height="200px">
 </div>
