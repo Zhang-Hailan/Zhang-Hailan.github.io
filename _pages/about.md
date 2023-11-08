@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-👋 Hi,everyone. My name is Zhang Hailan. The Chinese meanings of each word in my name (张海澜) are "Slack", "Wide", "Passion", respectively. I was born in the 21th century (April 4th, 2002). I will received my Bachelor degree degree at [Anhui university of technology (AHUT)](https://www.ahut.edu.cn) in 2024. And i will contiune my studies in [Hefei University of Technology(HFUT)](https://www.hfut.edu.cn) supervised by [Prof. Yang Wang](https://sites.google.com/view/wayag/home) in 2024 Fall.
+👋 Hi,everyone. My name is Zhang Hailan. The Chinese meanings of each word in my name (张海澜) are "Slack", "Wide", "Passion", respectively. I was born in the 21th century (April 6th, 2002). I will received my Bachelor degree degree at [Anhui university of technology (AHUT)](https://www.ahut.edu.cn) in 2024. And i will contiune my studies in [Hefei University of Technology(HFUT)](https://www.hfut.edu.cn) supervised by [Prof. Yang Wang](https://sites.google.com/view/wayag/home) in 2024 Fall.
 
 I visited the Visual & Data Intellgence Center (VDI) Lab, ShanghaiTech university and SHANGHAI ACOUSTICS LABORATORY,CHINESE ACADEMY OF SCIENCE in 2023 Summer.
 
@@ -77,187 +77,6 @@ Yue Wang, **Hailan Zhang**, Xuefeng Zhang, Xiangjun Wang\*
 </div>
 </div>
 
-
-**2022**
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2022_tcsvt/tcsvt2022.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**UPHDR-GAN: Generative Adversarial Network for High Dynamic Range Imaging with Unpaired Data** 
-  
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol.32, no.11, pp. 7532-7546, 2022*
-  
-**Ru Li**, Chuan Wang, Jue Wang, Guanghui Liu, Heng-Yu Zhang, Bing Zeng, Shuaicheng Liu
-
-[Paper](collections/2022_tcsvt/tcsvt2022.pdf) \| [code](https://github.com/liru0126/UPHDR-GAN) \| [BibTex](collections/2022_tcsvt/tcsvt2022.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-
-**2021**
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_acmmm/acmmm2021.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Image Style Transfer with Generative Adversarial Networks** 
-  
-*ACM Multimedia Doctor Symposium (**ACMMM**), pp. 2950-2954, 2021*
-  
-**Ru Li**
-  
-[Paper](collections/2021_acmmm/acmmm2021.pdf) \| Code \| [BibTex](collections/2021_acmmm/acmmm2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_tip/tip2021.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**JigsawGAN: Auxiliary Learning for Solving Jigsaw Puzzles with Generative Adversarial Networks** 
-  
-*IEEE Transactions on Image Processing (**TIP**), vol. 31, pp. 513-524, 2021*
-  
-**Ru Li**, Shuaicheng Liu, Guangfu Wang, Guanghui Liu, Bing Zeng
-  
-[Paper](collections/2021_tip/tip2021.pdf) \| Code \| [BibTex](collections/2021_tip/tip2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2021_tcsvt/sun_tcsvt2021.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Quadratic Terms based Point-to-Surface 3D Representation for Deep Learning of Point Cloud** 
-  
-*IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), vol.32, no.5, pp. 2705-2718, 2021*
-  
-Tiecheng Sun, Guanghui Liu, **Ru Li**, Shuaicheng Liu, Shuyuan Zhu, Bing Zeng
-  
-[Paper](collections/2021_tcsvt/sun_tcsvt2021.pdf) \| Code \| [BibTex](collections/2021_tcsvt/sun_tcsvt2021.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-**2020**
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2020_tip/tip2020.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**SDP-GAN: Saliency Detail Preservation Generative Adversarial Networks for High Perceptual Quality Style Transfer** 
-  
-*IEEE Transactions on Image Processing (**TIP**), vol. 30, pp. 374-385, 2020*
-  
-**Ru Li**, Chi-Hao Wu,  Shuaicheng Liu, Jue Wang, Guangfu Wang, Guanghui Liu, Bing Zeng
-  
-[Paper](collections/2020_tip/tip2020.pdf) \| [Code](https://github.com/liru0126/SDP-GAN) \| [BibTex](collections/2020_tip/tip2020.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2020_cviu/cviu2020.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Multi-exposure Photomontage with Hand-held Cameras** 
-  
-*Computer Vision and Image Understanding (**CVIU**), vol. 193, pp. 102929, 2020*
-  
-**Ru Li**, Shuaicheng Liu, Guanghui Liu, Tiecheng Sun, Jishun Guo
-  
-[Paper](collections/2020_cviu/cviu2020.pdf) \| Code \| [BibTex](collections/2020_cviu/cviu2020.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2020_ins/sun_ins2020.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**An Efficient and Compact 3D Local Descriptor based on the Weighted Height Image** 
-  
-*Information Sciences (**INS**), vol. 520, pp. 209-231, 2020*
-
-Tiecheng Sun, Guanghui Liu, Shuaicheng Liu, Fanman Meng, Liaoyuan Zeng, **Ru Li**
-  
-[Paper](collections/2020_ins/sun_ins2020.pdf) \| Code \| [BibTex](collections/2020_ins/sun_ins2020.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-**2019**
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2019_icip/icip2019.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Hybrid Synthesis for Exposure Fusion from Hand-Held Camera Inputs**
-
-*IEEE Internation Conference on Image Processing (**ICIP**), pp. 4639-4643, 2019*
-
-**Ru Li**, Shuaicheng Liu, Guanghui Liu, Bing Zeng
-          
-  
-[Paper](collections/2019_icip/icip2019.pdf) \| Code \| [BibTex](collections/2019_icip/icip2019.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-
-**2018**
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2018_icip/icip2018.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Photomontage for Robust HDR Imaging with Hand-held Cameras** 
-  
-*IEEE Internation Conference on Image Processing (**ICIP**), pp. 1708-1712, 2018*
-
-**Ru Li**, Xiaowu He, Shuaicheng Liu, Guanghui Liu, Bing Zeng
-  
-[Paper](collections/2018_icip/icip2018.pdf) \| Code \| [BibTex](collections/2018_icip/icip2018.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-**2016**
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2016_icsp/icsp2016.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Multiple Kernel Collaborative Representation based Classification**
-
-*IEEE Internation Conference on Signal Processing (**ICSP**), pp. 826-831, 2016*
-
-**Ru Li**, Qian Zhang, Zhiming Gao, Bao-Di Liu, Yanjing Wang
-          
-[Paper](collections/2016_icsp/icsp2016.pdf) \| Code \| [BibTex](collections/2016_icsp/icsp2016.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2016_icsp/gao_icsp2016.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**Kernel Class Specific Centralized Dictionary Learning for Face Recognition**
-
-*IEEE Internation Conference on Signal Processing (**ICSP**), pp. 837-842, 2016*
-
-Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
-          
-[Paper](collections/2016_icsp/gao_icsp2016.pdf) \| Code \| [BibTex](collections/2016_icsp/gao_icsp2016.md) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
-</div>
-</div>
-
 # Education 
 - *2024.09 - 2027.06* \| M.Sc.(expected) \| [Hefei University of Technology (HFUT)](https://www.hfut.edu.cn)
 - *2020.09 - 2024.06* \| B.E.(expected) \| [Anhui University of Technology (AHUT)](https://www.ahut.edu.cn)
@@ -266,22 +85,20 @@ Zhiming Gao, Qian Zhang, **Ru Li**, Bao-Di Liu, Yanjing Wang
 **2022.09-2023.05, Lung cancer prediction system based on R language**
 - A machine learning algorithm is used to determine whether patients with lung nodules have cancer.
 
-  
+**2020.11-2021.09, Truss structure robot**
+- Truss structure robot with adaptive pipe diameter.
+
 **2021.11-2022.09, Water valve irrigation system based on deep reinforcement learning**
 - The data collected by the sensor is trained to obtain the best irrigation strategy for the plant.
+
+# Travel
+
+**2023.04, Nanjing**
 <div>
        <video src='collections/DMS/DMS_smoke_demo1.mp4' controls="controls" width="30%" height="200px"></video>
        <video src='collections/DMS/DMS_smoke_demo2.mp4' controls="controls" width="30%" height="200px"></video>
        <video src='collections/DMS/DMS_phone_demo.mp4' controls="controls" width="30%" height="200px"></video>
 </div>
-
-**2020.11-2021.09, Truss structure robot**
-- Truss structure robot with adaptive pipe diameter.
-# Travel
-
-
-**2023.04, Nanjing**
-
 **2023.05, Lianyungang**
 
 **2023.06, Wuxi**
