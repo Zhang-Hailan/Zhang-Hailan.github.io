@@ -93,14 +93,30 @@ Yue Wang, **Hailan Zhang**, Xuefeng Zhang, Xiangjun Wang\*
 
 # Travel
 
-**2023.04, Nanjing**
+**2023.08, qingdao&taishan**
 <div>
-       <video src='collections/DMS/DMS_smoke_demo1.mp4' controls="controls" width="30%" height="200px"></video>
-       <video src='collections/DMS/DMS_smoke_demo2.mp4' controls="controls" width="30%" height="200px"></video>
-       <video src='collections/DMS/DMS_phone_demo.mp4' controls="controls" width="30%" height="200px"></video>
+       <video src='collections/Shandang/1.mp4' controls="controls" width="30%" height="200px"></video>
+       <img src='collections/Shandang/2.png' controls="controls" width="30%" height="200px"></img>
+       <img src='collections/Shandang/3.png' controls="controls" width="30%" height="200px"></img>
 </div>
-**2023.05, Lianyungang**
+
+**2023.04, Shanghai**
+<div>
+       <img src='collections/Shanghai/1.png' controls="controls" width="30%" height="200px"></img>
+       <video src='collections/Shanghai/2.mp4' controls="controls" width="30%" height="200px"></video>
+       <img src='collections/Shanghai/3.png' controls="controls" width="30%" height="200px"></img>
+</div>
 
 **2023.06, Wuxi**
+<div>
+       <img src='collections/Wuxi/1.png' controls="controls" width="30%" height="200px"></img>
+       <img src='collections/Wuxi/2.png' controls="controls" width="30%" height="200px"></img>
+       <img src='collections/Wuxi/3.png' controls="controls" width="30%" height="200px"></img>
+</div>
 
-**2023.08, qingdao&taishan**
+**2023.04, Nanjing**
+<div>
+       <img src='collections/Nanjing/1.png' controls="controls" width="30%" height="200px"></img>
+       <img src='collections/Nanjing/2.png' controls="controls" width="30%" height="200px"></img>
+       <img src='collections/Nanjing/3.png' controls="controls" width="30%" height="200px"></img>
+</div>
