@@ -94,9 +94,9 @@ Yue Wang, **Hailan Zhang**, Xuefeng Zhang, Xiangjun Wang\*
 
 # Travel
 
-**2023.08, qingdao&taishan**
+**2023.08, Qingdao and Taishan**
 <div>
-       <video src='collections/Shandang/1.mp4' controls="controls" width="30%" height="200px"></video>
+       <img src='collections/Shandang/1.mp4' controls="controls" width="30%" height="200px">
        <img src='collections/Shandang/2.png' controls="controls" width="30%" height="200px">
        <img src='collections/Shandang/3.png' controls="controls" width="30%" height="200px">
 </div>
@@ -104,7 +104,7 @@ Yue Wang, **Hailan Zhang**, Xuefeng Zhang, Xiangjun Wang\*
 **2023.04, Shanghai**
 <div>
        <img src='collections/Shanghai/1.png' controls="controls" width="30%" height="200px">
-       <video src='collections/Shanghai/2.mp4' controls="controls" width="30%" height="200px"></video>
+       <img src='collections/Shanghai/2.png' controls="controls" width="30%" height="200px">
        <img src='collections/Shanghai/3.png' controls="controls" width="30%" height="200px">
 </div>
 
