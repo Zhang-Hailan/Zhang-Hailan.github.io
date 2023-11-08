@@ -56,7 +56,7 @@ C language programming 2(95)          data structure(98)        C language progr
 
 Yue Wang, Hao Xu,  Jing Rui\*, **Hailan Zhang**, Lei Yin, Xuefeng Zhang, Xiangjun Wang
   
-[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=g3bdVbkAAAAJ&citation_for_view=g3bdVbkAAAAJ:2osOgNQ5qMEC)\| Video \| code \| [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:dxpLoxlumDgJ:scholar.google.com/&output=citation&scisdr=ClHNUsBvEL2B7eE48Dw:AFWwaeYAAAAAZUs-6DwWmufPVQHfF-puztH-WXY&scisig=AFWwaeYAAAAAZUs-6KVEJ7xjCu8NbxQXp-Fq9r0&scisf=4&ct=citation&cd=-1&hl=zh-CN) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-40-11-2096)\| Video \| code \| [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:dxpLoxlumDgJ:scholar.google.com/&output=citation&scisdr=ClHNUsBvEL2B7eE48Dw:AFWwaeYAAAAAZUs-6DwWmufPVQHfF-puztH-WXY&scisig=AFWwaeYAAAAAZUs-6KVEJ7xjCu8NbxQXp-Fq9r0&scisf=4&ct=citation&cd=-1&hl=zh-CN) <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
