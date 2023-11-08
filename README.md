@@ -1,6 +1,6 @@
 # Zhang-Hailan.github.io
 Zhang-Hailan's personal page.
-[Demo](https://Zhang-Hailan.github.io/)
+[Website](https://Zhang-Hailan.github.io/)
 
 Last update: 2023.11
 
