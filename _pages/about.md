@@ -73,7 +73,7 @@ Yue Wang, Hao Xu,  Jing Rui\*, **Hailan Zhang**, Lei Yin, Xuefeng Zhang, Xiangju
   
 Yue Wang, **Hailan Zhang**, Xuefeng Zhang, Xiangjun Wang\*
 
-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0263224122009939) \| Video \| code \| [BibTex]（https://scholar.googleusercontent.com/scholar.bib?q=info:q8hqRENeKf0J:scholar.google.com/&output=citation&scisdr=ClHNUsBvEL2B7eE4YqM:AFWwaeYAAAAAZUs-eqOoGurioYPX-IppWcyuwZQ&scisig=AFWwaeYAAAAAZUs-ekHihESX03Ff4y5nzSadNFk&scisf=4&ct=citation&cd=-1&hl=zh-CN） <strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0263224122009939) \| Video \| code \| [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:q8hqRENeKf0J:scholar.google.com/&output=citation&scisdr=ClHNUsBvEL2B7eE4YqM:AFWwaeYAAAAAZUs-eqOoGurioYPX-IppWcyuwZQ&scisig=AFWwaeYAAAAAZUs-ekHihESX03Ff4y5nzSadNFk&scisf=4&ct=citation&cd=-1&hl=zh-CN)<strong><span class='show_paper_citations' data='3WQTKocAAAAJ:WF5omc3nYNoC'></span></strong>
 </div>
 </div>
 
