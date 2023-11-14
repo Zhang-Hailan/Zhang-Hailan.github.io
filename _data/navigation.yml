@@ -20,9 +20,9 @@ main:
     
   - title: "Experience"
     url: "/#experience"
-
-  - title: "Academic Services"
-    url: "/#academic-services"  
   
   - title: "Projects"
     url: "/#projects"
+
+    - title: "Travel"
+    url: "/#Travel"
