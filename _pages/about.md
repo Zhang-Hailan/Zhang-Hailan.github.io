@@ -28,7 +28,7 @@ My research interest includes machine learning and computer vision.
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VbcrNgLaYEkdva0gLX4gyxLPCTXMVvSKkXqAcg8W2W4&cl=ffffff&w=a"></script>
 
 # Course
-C language programming 2(95)          data structure(98)        C language programming 2(97)        Embedded Systems(94)        Internet of Things communication technology(97)        Microcomputer principle and assembly language(92)
+C language programming 1(95)          data structure(98)        C language programming 2(97)        Embedded Systems(94)        Internet of Things communication technology(97)        Microcomputer principle and assembly language(92)
 
 
 # News
