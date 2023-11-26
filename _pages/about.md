@@ -32,6 +32,7 @@ C language programming 1(95)          data structure(98)        C language progr
 
 
 # News
+- *2023.11*: &nbsp; Invited to be a reviewer for Current Cancer Drug Targets and RECENT PATENTS ON ENGINEERING.
 - *2023.10*: &nbsp; I won the first-class scholarship of the university and merit student.
 - *2023.10*: &nbsp; One paper is accepted by JOSA A.
 - *2023.09*: &nbsp; I got the postgraduate qualification and decided to go to Hefei University of Technology(HFUT).
